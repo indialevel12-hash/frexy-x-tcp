@@ -11,3 +11,4 @@ pytz
 aiohttp
 cfonts
 aiosqlite
+fastapi
