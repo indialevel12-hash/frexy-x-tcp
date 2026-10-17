@@ -998,10 +998,10 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, ready_event, region, reconnect_d
 [b][c][FFFFFF]✅ Clan Bots
 [b][c][FFFFFF]✅ TCP Online Bots
 
-[b][c][FFFF00]💎 Developer: KANHAIYA
-[b][c][FFFFFF]✈️ Telegram: @KANHAIYA_VIP
-[b][c][FFFFFF]📱 Instagram: s.kanhaiya.7m
-[b][c][FFFFFF]🔗 Link: https://t.me/KANHAIYA_VIP
+[b][c][FFFF00]💎 Developer: FREXY 
+[b][c][FFFFFF]✈️ Telegram: @frexy1only
+[b][c][FFFFFF]📱 Instagram: nai
+[b][c][FFFFFF]🔗 Link: https://t.me/FREXY_OFC
 
 [b][c]{get_random_color()} Contact for purchase!"""
                     P = await SEndMsG(XX, msg, uid, chat_id, key, iv)
