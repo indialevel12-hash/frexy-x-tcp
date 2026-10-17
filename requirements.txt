@@ -12,3 +12,4 @@ aiohttp
 cfonts
 aiosqlite
 fastapi
+uvicorn
